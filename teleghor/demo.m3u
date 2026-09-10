@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:TELEGHOR STANDARD
+#PLAYLIST:Live TV Pro
 #EXTINF:-1 tvg-name="T Global News (Canada)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="Global News (US)" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="NEWS INTERNASIONAL",Global News (US)
@@ -62,8 +62,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-name="Channel S" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Channel S
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="My TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",My TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee 24 Ghanta " tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Zee 24 Ghanta 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Deshi TV HD" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Deshi TV HD
@@ -98,3 +96,29 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Zoo Moo" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-name="İspanya La Liga 2" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",İspanya La Liga 2
+https://andro.226503.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="İskoçya Premier Lig" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",İskoçya Premier Lig
+https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+#EXTINF:-1 tvg-name="İngiltere Premier Lig" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",İngiltere Premier Lig
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="ON Sports+ 🇭🇰" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",ON Sports+ 🇭🇰
+https://freem3u.xyz/api/live/play.m3u8
+#EXTINF:-1 tvg-name="MASR 🇶🇦" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",MASR 🇶🇦
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-name="Sport5 🇮🇱" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Sport5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043095/live3/playlist.m3u8
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-name="Saudia Arabia" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",Saudia Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-name="https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="AL EKHBARIA" tvg-logo="https://i.postimg.cc/L5N2hjfc/teleghor.png" group-title="Live TV",AL EKHBARIA
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
